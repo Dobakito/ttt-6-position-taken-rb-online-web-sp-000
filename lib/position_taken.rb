@@ -5,4 +5,5 @@ def position_taken?(board, index)
 end
   if board["X"] == 0 or board["O"] == 0 
     true
+  end
 end
